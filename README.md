@@ -1,5 +1,5 @@
 # Ana-Escobosa
-# ¡Hola! Soy [Ana Isabel Escobosa García] 👋
+# ¡Hola! Soy  [Ana Isabel Escobosa García] 👋
 
 ### 📊 Data Analyst | MBA | Innovación Alimentaria 🧬
 
@@ -34,6 +34,6 @@ Proyecto de Ciencia de Datos con **Python** procesando +1M de registros. Limpiez
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [Tu Perfil de LinkedIn](www.linkedin.com/in/ana-isabel-escobosa-garcía-4842533a2)
+* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/ana-isabel-escobosa-garc%C3%ADa-4842533a2/)
 * **Email:** [ana.escobosa92@hotmail.com]
 * **Ubicación:** Mazatlán, Sinaloa, México 🇲🇽
