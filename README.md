@@ -1,5 +1,5 @@
 # Ana-Escobosa
-# ¡Hola! Soy  [Ana Isabel Escobosa García] 👋
+# ¡Hola! Soy  Ana Isabel Escobosa García 👋
 
 ### 📊 Data Analyst | MBA | Innovación Alimentaria 🧬
 
